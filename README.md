@@ -29,8 +29,13 @@ A powerful and interactive Python GUI for image processing, designed with **Tkin
   - Home | Spatial Filters | Frequency Filters | Histogram | transformation 
 
 - gui visualization
-![image](https://github.com/user-attachments/assets/adf72a90-d57f-4c7d-adba-e7b32ca29bb8)
-![image](https://github.com/user-attachments/assets/bfaf29fc-b444-4226-9b5e-10b740aa9bcf)
+
+  - ![image](https://github.com/user-attachments/assets/adf72a90-d57f-4c7d-adba-e7b32ca29bb8)
+  - ![image](https://github.com/user-attachments/assets/bfaf29fc-b444-4226-9b5e-10b740aa9bcf)
+  - ![image](https://github.com/user-attachments/assets/dd1fc99e-f2f4-4da2-be13-a4409a9d27e3)
+  - ![image](https://github.com/user-attachments/assets/ed2ae120-2de8-4ca3-90b8-2c5a117345ce)
+
+
 
 
   
