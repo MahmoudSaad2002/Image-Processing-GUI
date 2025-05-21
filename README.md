@@ -21,14 +21,7 @@ A powerful and interactive Python GUI for image processing, designed with **Tkin
 - 🧭 Organized GUI with separate pages:
   - Home | Spatial Filters | Frequency Filters | Histogram | Restoration
 
----
 
-## 🖥️ GUI Preview
-
-![GUI Screenshot](images/gui_preview.png)  
-*Example of the spatial filter page with a custom kernel applied.*
-
----
 
 ## 📦 Installation
 
