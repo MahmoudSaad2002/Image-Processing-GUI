@@ -12,14 +12,21 @@ A powerful and interactive Python GUI for image processing, designed with **Tkin
   - Define your own **custom kernel** (up to 7x7)
 - 🌐 Apply **frequency domain filters**:
   - Gaussian Low-Pass / High-Pass
-  - Butterworth filters
+  - Butterworth filters control by n (order) low-pass / high pass 
+  - ideal low-pass / high pass
+  - 
 - 📊 Histogram analysis:
   - View histogram
   - Apply Equalization, Stretching, and Sliding
+
+- transformation :
+  - negative
+  - log-transformation
+  - power-law transformation control by gamma    
 - 🌞 Adjust image **brightness**
 - 💾 Save processed images and histogram plots
 - 🧭 Organized GUI with separate pages:
-  - Home | Spatial Filters | Frequency Filters | Histogram | Restoration
+  - Home | Spatial Filters | Frequency Filters | Histogram | transformation 
 
 
 
